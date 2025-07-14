@@ -6,10 +6,12 @@ declare class EdgeGrid {
                 accessToken?: string,
                 host?: string,
                 debug?: boolean,
-                max_body?: number);
+                max_body?: number,
+                axiosInstance?: any);
 
     request: object;
     config: object;
+    axiosInstance: any;
 
     /**
     * Sends the request and invokes the callback function.
