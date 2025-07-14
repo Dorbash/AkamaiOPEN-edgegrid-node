@@ -1,6 +1,6 @@
 {
   "name": "@dorbash2/akamai-edgegrid",
-  "version": "3.5.3",
+  "version": "3.5.4",
   "description": "Authentication handler for the Akamai OPEN EdgeGrid Authentication scheme in Node.js",
   "main": "index.js",
   "scripts": {
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Dorbash/akamai-edgegrid.git"
+    "url": "git+https://github.com/Dorbash/AkamaiOPEN-edgegrid-node"
   },
   "keywords": [
     "akamai",
